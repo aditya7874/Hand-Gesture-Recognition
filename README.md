@@ -1,5 +1,5 @@
 # Hand-Gesture-Recognition
-Hand gesture recognition of image taken from webcam
+Hand gesture recognition of image taken from a Webcam
 
 Run cam_detection.m which gives you a GUI interface.
 Place your hand representing some letter infront of camera(web cam) as shown in the image present in the resources Library.
